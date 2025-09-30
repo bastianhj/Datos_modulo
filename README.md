@@ -1,0 +1,1 @@
+Este repositorio contiene carpetas con datos de papers publicados. En cada caso, los datos fueron facilitados por los autores del paper. Dentro de cada carpeta también está el paper respectivo y hay un código base para importar los datos y hacer un análisis básico.
